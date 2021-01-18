@@ -47,6 +47,7 @@ namespace ChatBot
             else e.CanExecute = false;
         }
 
+
         private void CommandBinding_GuardarConversacionExecuted(object sender, ExecutedRoutedEventArgs e)
         {
             try
